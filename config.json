@@ -1,4 +1,6 @@
 {
+  "token": "Your bot token",
+  "apiFortnite": "Your api key",
   "prefix": "$",
   "green": "#00ff26"
 }
