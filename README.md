@@ -18,5 +18,8 @@ Commands :
 $lfstats {epicusername} {pc, xbl, psn}
 Maybe more in the feature.
 
+Note: If you have a weird letter in your name the application might crash, If this happens simply restart your bot
+
+To use a hosted version click here
 
  https://discordapp.com/oauth2/authorize?client_id=433996474456473600&scope=bot
