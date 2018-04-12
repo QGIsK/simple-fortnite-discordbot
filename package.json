@@ -1,0 +1,22 @@
+{
+  "name": "fortnitebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fortnite",
+    "Discord",
+    "Stats",
+    "Simple",
+    "Bot"
+  ],
+  "author": "Demian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fortnite": "^3.0.1"
+  }
+}
